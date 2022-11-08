@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo-2{
+    font-size: 30px !important;
+    color: #E34691 !important;
+    font-weight: bold !important;
+    padding-top: 10px !important;
+}
+
+.block_1{
+    height: 400px !important;
+    width: 310px !important;
+}
+.block_2{
+    height: 400px !important;
+    width: 370px !important;
+}
+#femmes{
+    font-size: 30px !important;
+    background: #E34691 !important;
+    border: solid 1px #E34691 !important;
+    border-radius: 4px;
+    bottom: 160px !important;
+    position: absolute;
+    left: 100px;
+}
+#hommes{
+    font-size: 30px !important;
+    background: #E34691 !important;
+    border: solid 1px #E34691 !important;
+    border-radius: 4px;
+    bottom: 160px !important;
+    position: absolute;
+    left: 100px;
+}
+
+#avant-dernier{
+    background: #E8E8E8 !important;
+}
+.text-center{
+text-align: center;
+}
